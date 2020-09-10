@@ -1,0 +1,31 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'PT Serif Caption', serif;
+}
+a {
+    text-decoration: none;
+    color: #DC143C;
+}
+#about {
+    background-color: #eaeaea;
+}
+#users {
+    font-weight: bold;
+}
+#users span {
+    color: #DC143C;
+}
+#creators .link {
+    text-decoration: none;
+    font-family:'Lato', sans-serif;
+}
+#creators .link font {
+    font-family: 'PT Serif Caption', serif;
+}
+#cta {
+    color: #DC143C;
+    font-family: Lato;
+}
+#cta .first, .third {
+    text-decoration: underline;
+}
